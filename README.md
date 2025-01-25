@@ -11,6 +11,7 @@
 8. [Voltix Built for AI Spec](https://chromewebstore.google.com/detail/voltix-built-for-ai-speci/dhffhdepkkepbcienheompkncklalogf?hl=en&authuser=0)
 9. [Depin Extension](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc?hl=en&authuser=0)
 10. [Gaea Extension](https://chromewebstore.google.com/search/Gaea%20Extension?hl=en&authuser=0)
+11. [Mygate network](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&authuser=0)
 
 ## DEPIN Web
 1. [Pipe CDN](https://pipecdn.app/)
