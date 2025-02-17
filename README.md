@@ -12,7 +12,7 @@
 9. [Depin Extension](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc?hl=en&authuser=0)
 10. [Gaea Extension](https://chromewebstore.google.com/search/Gaea%20Extension?hl=en&authuser=0)
 11. [Mygate network](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&authuser=0)
-12. [Openlayer](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
+12. [Openlayer](https://chromewebstore.google.com/detail/openlayer/bcakokeeafaehcajfkajcpbdkfnoahlh)
 
 ## DEPIN Web
 1. [Pipe CDN](https://pipecdn.app/)
